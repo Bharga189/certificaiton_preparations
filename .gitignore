@@ -1,0 +1,9 @@
+# Python bytecode from running the examples
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor / OS noise
+.DS_Store
+.vscode/
+.idea/
